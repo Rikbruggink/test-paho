@@ -1,0 +1,1 @@
+/home/vagrant/cross-compiler-armv5l/bin/armv5l-gcc   -rdynamic CMakeFiles/MQTTClient_publish_async.dir/MQTTClient_publish_async.c.o  -o CMakeFiles/CMakeRelink.dir/MQTTClient_publish_async ../libpaho-mqtt3c.so.1.2.1 -lc -ldl -lpthread 

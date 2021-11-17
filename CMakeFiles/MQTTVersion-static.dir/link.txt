@@ -1,0 +1,1 @@
+/home/vagrant/cross-compiler-armv5l/bin/armv5l-gcc   -rdynamic CMakeFiles/MQTTVersion-static.dir/MQTTVersion.c.o  -o MQTTVersion-static 

@@ -1,0 +1,1 @@
+/home/vagrant/cross-compiler-armv5l/bin/armv5l-gcc   -rdynamic CMakeFiles/paho_c_sub.dir/paho_c_sub.c.o  -o CMakeFiles/CMakeRelink.dir/paho_c_sub ../libpaho-mqtt3a.so.1.2.1 -lc -ldl -lpthread 

@@ -1,0 +1,1 @@
+/home/vagrant/cross-compiler-armv5l/bin/armv5l-gcc   -rdynamic CMakeFiles/MQTTVersion.dir/MQTTVersion.c.o  -o MQTTVersion -Wl,-rpath,/home/vagrant/paho.mqtt.c/src libpaho-mqtt3a.so.1.2.1 libpaho-mqtt3c.so.1.2.1 -lc -ldl -lpthread 

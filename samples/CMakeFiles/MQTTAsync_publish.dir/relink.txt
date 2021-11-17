@@ -1,0 +1,1 @@
+/home/vagrant/cross-compiler-armv5l/bin/armv5l-gcc   -rdynamic CMakeFiles/MQTTAsync_publish.dir/MQTTAsync_publish.c.o  -o CMakeFiles/CMakeRelink.dir/MQTTAsync_publish ../libpaho-mqtt3a.so.1.2.1 -lc -ldl -lpthread 

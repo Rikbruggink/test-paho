@@ -1,0 +1,1 @@
+/home/vagrant/cross-compiler-armv5l/bin/armv5l-gcc   -rdynamic CMakeFiles/paho_c_pub.dir/paho_c_pub.c.o  -o paho_c_pub -Wl,-rpath,/home/vagrant/paho.mqtt.c/src ../libpaho-mqtt3a.so.1.2.1 -lc -ldl -lpthread 
